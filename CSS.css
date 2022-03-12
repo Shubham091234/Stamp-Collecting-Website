@@ -139,7 +139,7 @@ margin-right: 460px;
 }
 .para12{margin-left: 370px;
 margin-right: 460px;
-@media (max-width:768px){
+
  font-family: verdana,Geneva,sans-serif;
   font-size: 13px;
 }
@@ -339,6 +339,3 @@ margin-top: -710px;
     font-family: verdana,Geneva,sans-serif;
     font-size: 13px;
  }
-
-
-
